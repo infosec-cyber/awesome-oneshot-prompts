@@ -80,9 +80,10 @@ missed.
 
 ## Index
 
-| One-shot | Rebuilds | Lines | Stack |
+| One-shot | Produces | Lines | Stack |
 |---|---|---|---|
-| [HERDER](./HERDER-ONESHOT.md) | Multi-agent tmux supervisor + web herder UI | ~470 | node/express/ws/xterm + python/asyncio + sqlite + systemd |
+| [HERDER](./AI-Herder.md) | Multi-agent tmux supervisor + web herder UI | ~470 | node/express/ws/xterm + python/asyncio + sqlite + systemd |
+| [PENTEST-BLOGPOST](./PENTEST-BLOGPOST-ONESHOT.md) | A designed, self-contained, interrogatable HTML blog post from a real AI-pentest session's artifacts | ~130 | any agent with your session on disk |
 
 ## Suggested template
 
